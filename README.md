@@ -1,6 +1,6 @@
 # chessgame
 How to use?
-launch the "FenetreJeu" file" the graphical interface in Java
+launch the "_FenetreJeu_" file the graphical interface in Java
 the project contains
 <ul>
   <li>implementation of classes in chess(rook, queen, spot etc.)OOP</li>
